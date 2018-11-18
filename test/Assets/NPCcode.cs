@@ -10,6 +10,8 @@ public class NPCcode : MonoBehaviour
 
     NavMeshAgent _navMeshAgent;
 
+    
+
 	// Use this for initialization
 	void Start ()
     {
